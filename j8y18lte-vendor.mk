@@ -427,7 +427,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/hw/vendor.qti.hardware.qseecom@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.qti.hardware.qseecom@1.0-impl.so \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/hw/vendor.qti.hardware.soter@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.qti.hardware.soter@1.0-impl.so \
-    vendor/samsung/j8y18lte/proprietary/vendor/lib/hw/vendor.samsung.security.skeymaster@3.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.samsung.security.skeymaster@3.0-impl.so \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/hw/vulkan.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vulkan.msm8953.so \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/libAlacSwDec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libAlacSwDec.so \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/libApeSwDec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libApeSwDec.so \
@@ -1389,7 +1388,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/vendor.samsung.hardware.security.proca@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.samsung.hardware.security.proca@2.0.so \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/vendor.samsung.hardware.security.securestorage@3.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.samsung.hardware.security.securestorage@3.0.so \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/vendor.samsung.hardware.vibrator@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.samsung.hardware.vibrator@2.0.so \
-    vendor/samsung/j8y18lte/proprietary/vendor/lib/vendor.samsung.security.skeymaster@3.0_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.samsung.security.skeymaster@3.0_vendor.so \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/vendor.trustonic.tee@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.trustonic.tee@1.0.so \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/vendor.trustonic.teeregistry@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.trustonic.teeregistry@1.0.so
 
