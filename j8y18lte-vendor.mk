@@ -272,7 +272,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j8y18lte/proprietary/vendor/etc/init/vendor.trustonic.teeregistry@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.trustonic.teeregistry@1.0-service.rc \
     vendor/samsung/j8y18lte/proprietary/vendor/etc/init/wifi.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/wifi.rc \
     vendor/samsung/j8y18lte/proprietary/vendor/etc/init/wifi_qcom.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/wifi_qcom.rc \
-    vendor/samsung/j8y18lte/proprietary/vendor/etc/init/wsm-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/wsm-service.rc \
     vendor/samsung/j8y18lte/proprietary/vendor/etc/media_codecs_8953.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_8953.xml \
     vendor/samsung/j8y18lte/proprietary/vendor/etc/media_codecs_8953_v1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_8953_v1.xml \
     vendor/samsung/j8y18lte/proprietary/vendor/etc/media_codecs_ac4.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_ac4.xml \
