@@ -385,7 +385,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/hw/hwcomposer.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/hwcomposer.msm8953.so \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/hw/keystore.mdfpp.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/keystore.mdfpp.so \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/hw/keystore.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/keystore.msm8953.so \
-    vendor/samsung/j8y18lte/proprietary/vendor/lib/hw/lights.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/lights.msm8953.so \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/hw/memtrack.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/memtrack.msm8953.so \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/hw/power.qcom.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/power.qcom.so \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/hw/sensors.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.msm8953.so \
