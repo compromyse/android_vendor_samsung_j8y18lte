@@ -122,6 +122,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j8y18lte/proprietary/vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.bluetooth@1.0-service-qti \
     vendor/samsung/j8y18lte/proprietary/vendor/bin/hw/android.hardware.gatekeeper@1.0-service-qti:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.gatekeeper@1.0-service-qti \
     vendor/samsung/j8y18lte/proprietary/vendor/bin/hw/android.hardware.gnss@2.0-service-qti:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.gnss@2.0-service-qti \
+    vendor/samsung/j8y18lte/proprietary/vendor/bin/hw/android.hardware.graphics.allocator@2.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.graphics.allocator@2.0-service \
     vendor/samsung/j8y18lte/proprietary/vendor/bin/hw/android.hardware.health@2.0-service.samsung:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.health@2.0-service.samsung \
     vendor/samsung/j8y18lte/proprietary/vendor/bin/hw/android.hardware.keymaster@3.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.keymaster@3.0-service \
     vendor/samsung/j8y18lte/proprietary/vendor/bin/hw/android.hardware.sensors@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.sensors@1.0-service \
@@ -411,6 +412,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/ftm_fm_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/ftm_fm_lib.so \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/hw/android.hardware.bluetooth@1.0-impl-qti.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.bluetooth@1.0-impl-qti.so \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/hw/android.hardware.gnss@2.0-impl-qti.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.gnss@2.0-impl-qti.so \
+    vendor/samsung/j8y18lte/proprietary/vendor/lib/hw/android.hardware.graphics.allocator@2.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.graphics.allocator@2.0-impl.so \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/hw/android.hardware.keymaster@3.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.keymaster@3.0-impl.so \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/hw/android.hardware.sensors@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.sensors@1.0-impl.so \
     vendor/samsung/j8y18lte/proprietary/vendor/lib/hw/audio.primary.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.msm8953.so \
